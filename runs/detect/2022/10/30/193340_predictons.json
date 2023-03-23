@@ -1,0 +1,14 @@
+[
+    {
+        "classid": 1.0,
+        "label": "Granulatsunterschied",
+        "Confidence": 0.8085572719573975,
+        "recommendation": "Ask Supervisor for Recommendation"
+    },
+    {
+        "classid": 1.0,
+        "label": "Granulatsunterschied",
+        "Confidence": 0.8408610820770264,
+        "recommendation": "Ask Supervisor for Recommendation"
+    }
+]
