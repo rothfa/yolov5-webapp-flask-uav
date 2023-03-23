@@ -1,1 +1,0 @@
-# yolov5-webapp-flask-uav
