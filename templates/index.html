@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+    <link rel="stylesheet" href="/static/style.css">
+
+    <title>Object Detection in Real-Time</title>
+  </head>
+  <body class="text-center">
+    <form class="form-signin" method=post enctype=multipart/form-data>
+        <img src="{{ url_for('video_feed') }}" width="100%">
+    </form>
+  </body>
+</html>
